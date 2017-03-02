@@ -158,8 +158,10 @@ $(window).scroll(function () {
 <button id="Btn1">Open bula</button>
 
 <p>
-With a user base of around 5,000 and records of over 30,000 
+With a user base of around 5,000 and records of over 30,000
 </p>
+<p>acesta este branchul cu modificari la text </p>
+
 
 
 <button id="btn2">Animate height</button>
